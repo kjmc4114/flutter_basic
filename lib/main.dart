@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget { // 화면이 변경될 소지가 없음.
           appBar: AppBar(
             title:  Text('밤편지'),
           ),
-          body: Text('헬로월드2', style: TextStyle(fontSize: 30))
+          body: Text('???2', style: TextStyle(fontSize: 30))
       )
     );
   }
